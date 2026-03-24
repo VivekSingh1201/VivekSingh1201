@@ -7,7 +7,7 @@
 ---
 
 ## 💡 About Me  
-- 🔭 Building ShopCenter – E-commerce Price Comparison Platform  
+- 🔭 Building AI Driven Code Review Assistent 
 - 🤖 Experienced in Machine Learning (YOLOv8, SVM, Random Forest)  
 - 📊 Published researcher in IEEE conferences  
 - ⚡ GATE Qualified (2025 & 2026)  
