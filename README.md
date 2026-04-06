@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I'm Vivek Kumar Singh</h1>
-<h3 align="center">Full Stack Developer · ML Enthusiast · IEEE Author</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Developer;ML+%2F+AI+Enthusiast" alt="Typing SVG" />
