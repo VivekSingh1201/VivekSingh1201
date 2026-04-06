@@ -97,21 +97,4 @@
   <a href="https://leetcode.com/u/viveksingh1021/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 </p>
 
----
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekSingh1201&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSingh1201&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSingh1201&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <i>"I focus on building scalable systems, solving real-world problems, and continuously improving through projects and research."</i>
-</p>
