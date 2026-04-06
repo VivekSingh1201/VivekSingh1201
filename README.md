@@ -10,7 +10,6 @@
 ##  About Me
 
 -  Currently building an **AI-Powered Code Review Assistant**
--  Experienced in **YOLOv8, SVM, Random Forest, TensorFlow**
 -  **2× IEEE Published** — ICDT 2024 & ICTACS 2024
 -  **GATE Qualified** — 2025 (354) & 2026 (383)
 -  BTech CSE @ Graphic Era Hill University — **CGPA: 8.11**
