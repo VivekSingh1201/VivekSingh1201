@@ -69,8 +69,8 @@
 
 ##  Publications
 
-- 📘 **Detection of Breast Cancer Tumour Using Advanced Methods** — IEEE Xplore, ICDT 2024
-- 📘 **Real-Time Vehicle Speed Estimation Using YOLOv8 & DeepSORT** — IEEE Xplore, ICTACS 2024
+-  **Detection of Breast Cancer Tumour Using Advanced Methods** — IEEE Xplore, ICDT 2024
+-  **Real-Time Vehicle Speed Estimation Using YOLOv8 & DeepSORT** — IEEE Xplore, ICTACS 2024
 
 ---
 
