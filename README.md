@@ -39,7 +39,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-23FF12?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLOv8-23FF99?style=flat-square)
 
 ### Developer Ecosystem & Cloud
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
