@@ -10,7 +10,7 @@
 
 -  Currently building an **AI-Powered Code Review Assistant**
 -  **2× IEEE Published** — ICDT 2024 & ICTACS 2024
--  **GATE Qualified** — 2025 (354) & 2026 (383)
+-  **GATE Qualified** — 2025 & 2026
 -  BTech CSE @ Graphic Era Hill University — **CGPA: 8.11**
 -  Targeting **SDE · Full Stack · AI/ML** roles
 
