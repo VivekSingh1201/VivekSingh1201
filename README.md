@@ -28,7 +28,7 @@
 ![Vector Databases](https://img.shields.io/badge/Vector%20DBs-0066CC?style=flat-square)
 
 ### Production Full Stack (UI & High-Performance APIs)
-![Next.js](https://img.shields.io/badge/Next.js-Corporate%20Stack-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
