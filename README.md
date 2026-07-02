@@ -1,91 +1,102 @@
 <h1 align="center">Vivek Kumar Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Developer;ML+%2F+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=AI+/+LLM+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ##  About Me
 
--  Currently building an **AI-Powered Code Review Assistant**
--  **2× IEEE Published** — ICDT 2024 & ICTACS 2024
--  **GATE Qualified** — 2025 & 2026
--  BTech CSE @ Graphic Era Hill University — **CGPA: 8.11**
--  Targeting **SDE · Full Stack · AI/ML** roles
+-  🚀 Engineering advanced **RAG Pipelines**, **AI Agents**, and production full-stack systems.
+-  **2× IEEE Published Author** — Computer Vision & Machine Learning Systems.
+-  **2× GATE Qualified** — 2025 & 2026 (Strong foundational grounding in CS, Core Systems & Algorithms).
+-  🎓 BTech CSE @ Graphic Era Hill University — **CGPA: 8.11**
+-  🎯 Targeting Roles: **AI Engineer · LLM/RAG Developer · Full Stack Engineer · SDE**
 
 ---
 
-##  Tech Stack
+##  Core Expertise & Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🤖 Generative AI, RAG & Agentic Tooling
+![RAG Architecture](https://img.shields.io/badge/AI-Retrieval--Augmented%20Generation%20(RAG)-red?style=flat-square)
+![Claude Code CLI](https://img.shields.io/badge/Claude%20Code-Terminal%20Agents-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-AI%20Interfaces-FF9D00?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models%20%26%20Spaces-yellow?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Data%20Frameworks-65258A?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-Orchestration-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector%20DBs-ChromaDB%20%7C%20Pinecone-0066CC?style=flat-square)
 
-### Full Stack
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### 💻 Production Full Stack (UI & High-Performance APIs)
+![Next.js](https://img.shields.io/badge/Next.js-Corporate%20Stack-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React.js-v18%20%2F%20v19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-AI%20Microservices-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-MongoDB%20%7C%20MySQL%20%7C%20PostgreSQL-4EA94B?style=flat-square)
 
-### AI / ML
+### 🧠 Computer Vision & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8%20%2F%20v11-Object%20Tracking-00FF00?style=flat-square)
 
-### Tools & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-##  Featured Projects
-
-###  ShopCenter — E-Commerce Price Comparison
-> Full-stack web app · React + Node.js + MongoDB  
-> Aggregates product data across platforms with advanced price/rating/seller filtering
-
-###  Vehicle Speed Detection System
-> YOLOv8 + DeepSORT + OpenCV · ~85% accuracy  
-> Real-time vehicle tracking and speed estimation — IEEE Published
-
-###  Breast Cancer Detection System
-> Random Forest + SVM · 87.7% accuracy  
-> Feature engineering, scaling, ensemble methods — IEEE Published
-
-###  AI Code Review Assistant *(In Progress)*
-> React + Monaco Editor · Node.js + Gemini API + LangChain.js  
-> ML microservice for language classification · Deployed via Vercel + Railway
+### 🛠️ Developer Ecosystem & Cloud
+![VS Code](https://img.shields.io/badge/VS%20Code-Local%20Development-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Production%20Deploy-000000?style=flat-square&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-Host-131415?style=flat-square&logo=railway&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-##  Publications
+## 🚀 Featured AI & Engineering Projects
 
--  **Detection of Breast Cancer Tumour Using Advanced Methods** — IEEE Xplore, ICDT 2024
--  **Real-Time Vehicle Speed Estimation Using YOLOv8 & DeepSORT** — IEEE Xplore, ICTACS 2024
+### 🌟 AI-Powered Code Review Assistant *(In Progress)*
+> **Next.js/React · Node.js + FastAPI · RAG Architecture · LlamaIndex · Gradio Playground · Gemini API · Hugging Face**  
+- Architecting an automated multi-language source code analysis platform using context-optimized **Retrieval-Augmented Generation (RAG)** pipelines.
+- Leveraging **LlamaIndex** alongside vector stores (**ChromaDB**) to chunk, index, and retrieve specific codebase semantic rules contextually.
+- Developed an interactive internal testing UI using **Gradio** for quick prototype iterations before shipping the consumer interface on **Next.js**.
+- Built localized microservices with **FastAPI** to execute async classification via models hosted on **Hugging Face**, managed through automated **Claude Code CLI** terminal terminal loops, tested locally inside **VS Code**, and deployed seamlessly via **Vercel & Railway**.
+
+### 📊 ShopCenter — E-Commerce Price Aggregator
+> **React · Node.js · Express · MongoDB · Web Scrapers**  
+- Built a high-performance web parsing application that aggregates and de-duplicates live product data across web platforms.
+- Architected compound filtering systems based on dynamic price thresholds, review sentiment metrics, and vendor verification markers.
+
+### 🚘 Real-Time Vehicle Analytics System *(IEEE Published)*
+> **Python · YOLOv8 · DeepSORT · OpenCV**  
+- Developed a highly efficient computer vision pipeline executing simultaneous vehicle bounding-box tracking and multi-lane speed estimation.
+- Reached **~85% accuracy** on dense traffic video data; presented architectural findings globally under **IEEE Xplore**.
+
+### 🩺 Advanced Breast Cancer Tumour Classifier *(IEEE Published)*
+> **Scikit-Learn · Python · Ensemble Methods · SVM · Random Forest**  
+- Structured a high-accuracy medical diagnostic classification pipeline (**87.7% accuracy**).
+- Implemented precision feature engineering, variance scaling, and ensemble voters to mitigate class imbalances in diagnostic datasets.
 
 ---
 
-##  Achievements
+## 📄 Peer-Reviewed Publications
 
-| Achievement | Details |
+-  **Detection of Breast Cancer Tumour Using Advanced Methods** — *IEEE Xplore, ICDT*
+-  **Real-Time Vehicle Speed Estimation Using YOLOv8 & DeepSORT** — *IEEE Xplore, ICTACS*
+
+---
+
+## 🏆 Key Achievements
+
+| Benchmark | Context / Details |
 |---|---|
-| GATE 2026 Qualified | Score: 383 |
-| GATE 2025 Qualified | Score: 354 |
-| Graphathon Hackathon | Built Tourism Website |
-| KPMG CTF | Cybersecurity Hackathon Participant |
+| **GATE 2026** Qualified | Higher-percentile standard benchmark in CS, Data Structures, and Algorithmic Analysis |
+| **GATE 2025** Qualified | Validated early engineering competency standards |
+| **Graphathon Hackathon** | Designed and scaled a responsive localized tourism search portal under a strict 48hr deadline |
+| **KPMG CTF** | Evaluated security constraints, reverse-engineering flags, and penetration models |
 
 ---
 
-##  Connect With Me
+## 🤝 Connect & Collaborate
 
 <p align="left">
   <a href="mailto:vs6000675@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -94,5 +105,3 @@
   <a href="https://viveksingh1201.github.io/Vivek-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
   <a href="https://leetcode.com/u/viveksingh1021/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 </p>
-
-
