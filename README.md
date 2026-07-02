@@ -22,7 +22,7 @@
 ![RAG Architecture](https://img.shields.io/badge/Retrieval--Augmented%20Generation%20(RAG)-red?style=flat-square)
 ![Claude Code CLI](https://img.shields.io/badge/Claude%20Code-Terminal-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF9D00?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging-yellow?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-yellow?style=flat-square)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-65258A?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20DBs-0066CC?style=flat-square)
