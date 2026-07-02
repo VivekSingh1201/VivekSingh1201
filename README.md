@@ -23,14 +23,14 @@
 ![Claude Code CLI](https://img.shields.io/badge/Claude%20Code-Terminal%20Agents-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-AI%20Interfaces-FF9D00?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models%20%26%20Spaces-yellow?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Data%20Frameworks-65258A?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-Orchestration-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-65258A?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20DBs-ChromaDB%20%7C%20Pinecone-0066CC?style=flat-square)
 
 ### Production Full Stack (UI & High-Performance APIs)
 ![Next.js](https://img.shields.io/badge/Next.js-Corporate%20Stack-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-AI%20Microservices-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Databases](https://img.shields.io/badge/Databases-MongoDB%20%7C%20MySQL%20%7C%20PostgreSQL-4EA94B?style=flat-square)
@@ -46,8 +46,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-Production%20Deploy-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-Host-131415?style=flat-square&logo=railway&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
