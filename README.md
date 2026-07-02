@@ -20,12 +20,12 @@
 
 ### Generative AI, RAG & Agentic Tooling
 ![RAG Architecture](https://img.shields.io/badge/AI-Retrieval--Augmented%20Generation%20(RAG)-red?style=flat-square)
-![Claude Code CLI](https://img.shields.io/badge/Claude%20Code-Terminal%20Agents-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-AI%20Interfaces-FF9D00?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models%20%26%20Spaces-yellow?style=flat-square)
+![Claude Code CLI](https://img.shields.io/badge/Claude%20Code-Terminal-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-AI-FF9D00?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging-yellow?style=flat-square)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-65258A?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector%20DBs-ChromaDB%20%7C%20Pinecone-0066CC?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector%20DBs-0066CC?style=flat-square)
 
 ### Production Full Stack (UI & High-Performance APIs)
 ![Next.js](https://img.shields.io/badge/Next.js-Corporate%20Stack-000000?style=flat-square&logo=nextdotjs&logoColor=white)
